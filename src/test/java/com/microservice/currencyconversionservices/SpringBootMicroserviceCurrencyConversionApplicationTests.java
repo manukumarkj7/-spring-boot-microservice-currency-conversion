@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.microservice.example.currencyconversion;
+package com.microservice.currencyconversionservices;
 
 
 import org.junit.Test;

@@ -1,4 +1,4 @@
-/Users/manukumar/Documents/workspace-sts-3.9.5.RELEASE/spring-boot-microservice-currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/SpringBootMicroserviceCurrencyConversionApplication.java
-/Users/manukumar/Documents/workspace-sts-3.9.5.RELEASE/spring-boot-microservice-currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyExchangeServiceProxy.java
-/Users/manukumar/Documents/workspace-sts-3.9.5.RELEASE/spring-boot-microservice-currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyConversionBean.java
-/Users/manukumar/Documents/workspace-sts-3.9.5.RELEASE/spring-boot-microservice-currency-conversion-service/src/main/java/com/in28minutes/springboot/microservice/example/currencyconversion/CurrencyConversionController.java
+/Users/manukumar/Documents/test/spring-boot-microservice-currency-conversion-service/src/main/java/com/microservice/currencyconversionservices/SpringBootMicroserviceCurrencyConversionApplication.java
+/Users/manukumar/Documents/test/spring-boot-microservice-currency-conversion-service/src/main/java/com/microservice/currencyconversionservices/controllers/CurrencyConversionController.java
+/Users/manukumar/Documents/test/spring-boot-microservice-currency-conversion-service/src/main/java/com/microservice/currencyconversionservices/CurrencyExchangeServiceProxy.java
+/Users/manukumar/Documents/test/spring-boot-microservice-currency-conversion-service/src/main/java/com/microservice/currencyconversionservices/model/CurrencyConversionBean.java

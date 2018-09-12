@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.microservice.example.currencyconversion;
+package com.microservice.currencyconversionservices;
 
 
 import org.springframework.cloud.openfeign.FeignClient;
@@ -6,6 +6,8 @@ import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
+import com.microservice.currencyconversionservices.model.CurrencyConversionBean;
+import com.microservice.currencyconversionservices.*;
 @FeignClient(name="forex-service")
 @RibbonClient(name="forex-service")
 public interface CurrencyExchangeServiceProxy {

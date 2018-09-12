@@ -1,5 +1,5 @@
-package com.in28minutes.springboot.microservice.example.currencyconversion;
-
+package com.microservice.currencyconversionservices.controllers;
+//import com.microservice.currencyconversionservices;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
@@ -13,6 +13,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
+
+import com.microservice.currencyconversionservices.CurrencyExchangeServiceProxy;
+import com.microservice.currencyconversionservices.model.CurrencyConversionBean;
 
 @RestController
 public class CurrencyConversionController {
